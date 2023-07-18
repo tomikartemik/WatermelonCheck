@@ -1,2 +1,2 @@
 while True:
-    print("muha - gay")
+    print("utesov - gay")
