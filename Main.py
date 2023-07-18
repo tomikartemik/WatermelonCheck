@@ -1,2 +1,2 @@
 print("Hello world")
-print('muha-gay')
+print('artem-gay')
