@@ -1,1 +1,2 @@
-import telebot
+print("Hello world")
+print('artem-gay')
