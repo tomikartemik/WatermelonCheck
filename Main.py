@@ -1,2 +1,2 @@
-print("Hello world")
-print('artem-gay')
+while True:
+    print("muha - gay")
