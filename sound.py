@@ -11,7 +11,7 @@ model = Sequential()
 model.add(Conv1D(filters=32, kernel_size=512, strides=3,
 	padding='valid', use_bias=False, input_shape=(44100, 1), name='c1d',
 	activation='relu'))
-model.add(Activation('relu', input_shape=(y[0], 1)))
+model.add(Activation('relu', input_shape=(44100, 1)))
 model.add(MaxPooling1D(pool_size=(2)))
 
 model.add(Conv1D(32, (3)))
